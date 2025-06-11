@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me
-- 💼 I’m currently working as a Software Developement Engineer at Zoom.
+- 💼 I’m currently working as a Software Development Engineer at Zoom.
 - 📋 I've previously worked as a Frontend Developer at Plivo & HighRadius.
 - 📫 How to reach me: Check social links below.
 
